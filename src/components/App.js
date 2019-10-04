@@ -12,7 +12,7 @@ class App extends React.Component {
   getNasaApod = async () => {
     const response = await NasaApi.get("/planetary/apod", {
       params: {
-        api_key: "fleWpDAi8uFaOQ9bwumxsCnliCdcrxifdq0f6puQ",
+        api_key: "ADD YOUR API_KEY HERE GETTING IT FROM NASA API",
         hd: true
       }
     });
