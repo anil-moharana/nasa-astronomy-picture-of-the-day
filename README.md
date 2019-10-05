@@ -12,4 +12,4 @@
 ##### 1.Created  react components Header,Content etc.
 ##### 2.Configuring Api details for accessing nasa api.
 ##### 3.Using axios to call nasa api.
-##### 4.Once I get response I am showing vy rendering multiple components.
+##### 4.Once I get response I am showing by rendering multiple components.
